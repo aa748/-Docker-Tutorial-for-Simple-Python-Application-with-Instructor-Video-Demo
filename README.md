@@ -1,1 +1,1 @@
-# -Docker-Tutorial-for-Simple-Python-Application-with-Instructor-Video-Demo
+# Docker-Tutorial-for-Simple-Python-Application-with-Instructor-Video-Demo
